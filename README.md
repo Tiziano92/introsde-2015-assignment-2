@@ -8,11 +8,14 @@ Server part - assignment02
 NAME OF STUDENT I WORKED WITH: Zsanett Orosz
 //=======================================================================
 
+
 //================================SERVERS URLs===========================
 
 URL OF MY SERVER: https://warm-crag-1462.herokuapp.com/sdelab
 PARTNER'S SERVER URL: https://peaceful-garden-1175.herokuapp.com/sdelab/
+
 //========================================================================
+
 
 //=================LINK TO GITHUB REPOSITORY OF ZSANETT OROSZ=============
 
